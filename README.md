@@ -18,7 +18,7 @@
 
 # 📷 Layout da aplicação
 <p>
-<img src="https://www.bing.com/images/blob?bcid=Ti22WB-kPIsCd4z9SFs4yl9XJks-.....4w" heigth="400px" />
+<img src="https://www.bing.com/images/blob?bcid=Ti22WB-kPIsCd4z9SFs4yl9XJks-.....4w" />
 <img src="https://imgur.com/kIEgkdW" height="400px"/>
 <img src="https://imgur.com/vsRWlKF" heigth="400px" />
 <img src="https://imgur.com/x1nExkl" heigth="400px" />
