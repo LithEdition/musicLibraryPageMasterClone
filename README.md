@@ -1,7 +1,3 @@
-
-
-https://user-images.githubusercontent.com/66684565/112388893-996cd780-8cd2-11eb-97a9-3414a2143c6a.mp4
-
 # Music Library Page
 
 <br />
@@ -21,7 +17,7 @@ https://user-images.githubusercontent.com/66684565/112388893-996cd780-8cd2-11eb-
 
 # 📷 Layout da aplicação
 <p>
-<img src="gifs.com/gif/projeto-0YlBvN" width="40" height="40" />
+<img src="https://gifs.com/gif/projeto-0YlBvN" width="40" height="40" />
 <br />
 <br />
 <br />
