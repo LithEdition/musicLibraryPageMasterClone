@@ -19,7 +19,7 @@
 # 📷 Layout da aplicação
 <p>
 	[Imgur](https://imgur.com/kIEgkdW)
-<img src="https://imgur.com/kIEgkdW" />
+<img src="https://uploaddeimagens.com.br/imagens/kd-Ys3c" />
 <img src="https://imgur.com/kIEgkdW" height="400px"/>
 <img src="https://imgur.com/vsRWlKF" heigth="400px" />
 <img src="https://imgur.com/x1nExkl" heigth="400px" />
