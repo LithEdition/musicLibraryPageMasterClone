@@ -11,17 +11,11 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <br />
 <br />
-<br />
-<br />
-<br />
 </p>
 
 # 📷 Layout da aplicação
 <p align="center">
-<img src="https://imgur.com/8KwqfNF.png" width="400" />
-<img src="https://imgur.com/kIEgkdW.png" width="400" />
-<img src="https://imgur.com/vsRWlKF.png" width="400" />
-<img src="https://imgur.com/x1nExkl.png" width="400" />
+<img src="https://imgur.com/kIEgkdW.png" />
 <br />
 <br />
 <br />
