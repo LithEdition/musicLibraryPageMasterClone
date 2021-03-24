@@ -19,17 +19,17 @@
 # 📷 Layout da aplicação
 <p>
 	[Imgur](https://imgur.com/kIEgkdW)
-<img src="https://uploaddeimagens.com.br/imagens/kd-Ys3c" />
+<img src="https://imgur.com/8KwqfNF.png" height="400px"/>
 <img src="https://imgur.com/kIEgkdW.png" height="400px"/>
-<img src="https://imgur.com/vsRWlKF" heigth="400px" />
-<img src="https://imgur.com/x1nExkl" heigth="400px" />
+<img src="https://imgur.com/vsRWlKF.png" heigth="400px" />
+<img src="https://imgur.com/x1nExkl.png" heigth="400px" />
 <br />
 <br />
 <br />
 <br />
 <br />
 </p>
-https://www.bing.com/images/blob?bcid=Ti22WB-kPIsCd4z9SFs4yl9XJks-.....4w
+
 # 🚀 Como rodar a aplicação localmente: 
 <p> 
 	<strong> - Clone Repositório </strong> <br /> 
