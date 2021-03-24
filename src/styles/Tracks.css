@@ -1,0 +1,21 @@
+.tracks-container {
+
+    position: fixed;
+    top: 60vh;
+    right: 0;
+    width: 700px;
+    height: 60vh;
+}
+
+.tracks-scroll-menu a img {
+
+    height: 150px;
+    width: 200px;
+    border-radius: 15px;
+    margin-right: 1px;
+    margin-bottom: 5px;
+
+    opacity: .7;
+    transform: scale(0.9);
+    transition: .3s;
+}
