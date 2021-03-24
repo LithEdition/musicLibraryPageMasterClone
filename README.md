@@ -17,7 +17,7 @@
 
 # 📷 Layout da aplicação
 <p>
-<img src="https://gifs.com/gif/projeto-0YlBvN" width="40" height="40" />
+![](http://i.imgur.com/Ssfp7.gif)
 <br />
 <br />
 <br />
