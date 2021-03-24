@@ -24,7 +24,7 @@
 
 # 📷 Layout da aplicação
 <p>
-![Alt text](https://sample/url/name-of-gif-file.gif)
+<iframe src='//gifs.com/embed/projeto-0YlBvN' frameborder='0' scrolling='no' width='1280px' height='720px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 <br />
 <br />
 <br />
