@@ -17,12 +17,11 @@
 </p>
 
 # 📷 Layout da aplicação
-<p>
-	[Imgur](https://imgur.com/kIEgkdW)
-<img src="https://imgur.com/8KwqfNF.png" height="400px"/>
-<img src="https://imgur.com/kIEgkdW.png" height="400px"/>
-<img src="https://imgur.com/vsRWlKF.png" heigth="400px" />
-<img src="https://imgur.com/x1nExkl.png" heigth="400px" />
+<p align="center">
+<img src="https://imgur.com/8KwqfNF.png" width="400" />
+<img src="https://imgur.com/kIEgkdW.png" width="400" />
+<img src="https://imgur.com/vsRWlKF.png" width="400" />
+<img src="https://imgur.com/x1nExkl.png" width="400" />
 <br />
 <br />
 <br />
