@@ -24,7 +24,7 @@
 
 # 📷 Layout da aplicação
 <p>
-<img src="https://gifs.com/gif/projeto-0YlBvN.gif" />
+![Alt text](https://sample/url/name-of-gif-file.gif)
 <br />
 <br />
 <br />
