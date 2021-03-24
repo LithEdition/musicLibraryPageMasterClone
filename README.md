@@ -18,9 +18,8 @@
 
 # 📷 Layout da aplicação
 <p>
-<img src="https://www.bing.com/images/blob?bcid=TmexBYDLI4sCd4z9SFs4yl9XJks-......I" heigth="400px" />
-<img src="https://imgur.com/kIEgkdW" />![image](https://user-images.githubusercontent.com/66684565/112393993-b4dbe080-8cda-11eb-88ed-30e7360857d0.png)
-
+<img src="" heigth="400px" />
+<img src="https://imgur.com/kIEgkdW" height="400px"/>
 <img src="https://imgur.com/vsRWlKF" heigth="400px" />
 <img src="https://imgur.com/x1nExkl" heigth="400px" />
 <br />
@@ -29,7 +28,7 @@
 <br />
 <br />
 </p>
-
+https://www.bing.com/images/blob?bcid=Ti22WB-kPIsCd4z9SFs4yl9XJks-.....4w
 # 🚀 Como rodar a aplicação localmente: 
 <p> 
 	<strong> - Clone Repositório </strong> <br /> 
