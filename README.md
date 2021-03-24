@@ -24,7 +24,7 @@
 
 # 📷 Layout da aplicação
 <p>
-<img src="https://gifs.com/gif/projeto-0YlBvN" />
+<img src="https://gifs.com/gif/projeto-0YlBvN.gif" />
 <br />
 <br />
 <br />
