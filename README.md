@@ -17,7 +17,7 @@
 
 # 📷 Layout da aplicação
 <p>
-<img src="https://media.giphy.com/media/LlwEaBqDXuzSEqrvo7/giphy.gif" width="400px" />
+<img src="https://media.giphy.com/media/LlwEaBqDXuzSEqrvo7/giphy.gif" width="800px" />
 <br />
 <br />
 <br />
