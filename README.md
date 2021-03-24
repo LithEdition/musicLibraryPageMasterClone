@@ -17,7 +17,7 @@
 
 # 📷 Layout da aplicação
 <p>
-<iframe  width="425" height="344" src="https://www.youtube.com/embed/F9Bo89m2f6g" frameborder="0" allowfullscreen></iframe>
+<embed src="https://www.youtube.com/embed/F9Bo89m2f6g" allowfullscreen="true" width="425" height="344">
 <br />
 <br />
 <br />
