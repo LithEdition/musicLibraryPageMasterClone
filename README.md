@@ -17,7 +17,7 @@
 
 # 📷 Layout da aplicação
 <p>
-![](http://i.imgur.com/Ssfp7.gif)
+https://media.giphy.com/media/LlwEaBqDXuzSEqrvo7/giphy.gif
 <br />
 <br />
 <br />
