@@ -19,7 +19,7 @@
 # 📷 Layout da aplicação
 <p>
 <img src="https://www.bing.com/images/blob?bcid=TmexBYDLI4sCd4z9SFs4yl9XJks-......I" heigth="400px" />
-<img src="https://imgur.com/kIEgkdW" heigth="400px" />
+<img src="https://imgur.com/kIEgkdW" />
 <img src="https://imgur.com/vsRWlKF" heigth="400px" />
 <img src="https://imgur.com/x1nExkl" heigth="400px" />
 <br />
