@@ -1,14 +1,7 @@
 # Music Library Page
 
-<p align="center">
-	Página de biblioteca de músicas
 <br />
 <br />
-<br />
-<br />
-<br />
-</p>
-
 
 # 🔨 Tecnologias utilizadas:
 <p>
@@ -24,7 +17,7 @@
 
 # 📷 Layout da aplicação
 <p>
-<iframe src='//gifs.com/embed/projeto-0YlBvN' frameborder='0' scrolling='no' width='1280px' height='720px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+<img src="https://j.gifs.com/0YlBvN.gif" width="40" height="40" />
 <br />
 <br />
 <br />
